@@ -3,7 +3,7 @@
 ---
 
 # Seren
-Seren fue uno de los 5 miembros del grupo de héroes legendarios conocido como "El Congreso". Un Mago Elfo que se perfeccionó por muchos años en las magias mas poderosas conocidas por los mortales de este plano. Junto al resto de sus aliados lograron derrotar al malvado [[Lore/Amenazas/Yebreoz\|Yebreoz]], el aniquilador de la sociedad.
+Seren fue uno de los 5 miembros del grupo de héroes legendarios conocido como "[[Lore/Heroes/El Congreso\|El Congreso]]". Un Mago Elfo que se perfeccionó por muchos años en las magias mas poderosas conocidas por los mortales de este plano. Junto al resto de sus aliados lograron derrotar al malvado [[Lore/Amenazas/Yebreoz\|Yebreoz]], el aniquilador de la sociedad.
 
 # Apariencia
 Aunque a lo largo de sus muchos años utilizó diversos conjuntos y peinados, en sus ultimas apariciones con vida Seren podía ser visto utilizando un imponente traje de mago de color purpura intenso, el cual a día de hoy está exhibido en el Museo de Seren. Utilizaba una larga barba de color blanco y, además, portaba un bastón, coronado con un orbe de material desconocido[^1] que usaba como foco arcano. 
@@ -24,13 +24,13 @@ En la academia empezaron también sus primeras salidas de aventurero, derrotando
  Luego de haber adquirido todo el conocimiento que la Academia de Galthonras pudo ofrecerle, Seren emprendió un viaje en solitario, en búsqueda de aventuras épicas y conocimientos para hacerlo aun mas poderoso de lo que ya era. Recorrió los 4 continentes, derrotó a dragones y bestias temibles junto a aventureros que conoció en el camino e incluso se dice que viajó a otros planos y llegó a conocer en persona a dioses[^3].
 
 # El Congreso
-En algún momento, luego del "Solsticio de Onrardoth" y el "Exterminio de Vorpeluld"
+En algún momento, luego del "[[Solsticio de Onrardoth\|Solsticio de Onrardoth]]" y el "[[Lore/Eventos Historicos/Exterminio de Vorpeluld\|Exterminio de Vorpeluld]]"
 Seren recorrió los pocos campamentos de refugiados de la resistencia, en búsqueda de los aventureros mas poderosos de todo Rithenclot para poder derrotar a Yebreoz el aniquilador.
 Así, luego de varios meses de búsqueda, pudo reunir a los 4 héroes mas poderosos hasta la fecha y, en una taberna en Licht, se creó "El Congreso".
 
 
 # La Batalla de Vorpeluld
-Seren fue una parte crucial de "La batalla de Vorpeluld". Utilizando sus poderosos hechizos para mantener a raya a los secuaces malignos de Yebreoz y ayudando a sus compañeros con conjuros que los mantuvieran en pie.
+Seren fue una parte crucial de "[[La batalla de Vorpeluld\|La batalla de Vorpeluld]]". Utilizando sus poderosos hechizos para mantener a raya a los secuaces malignos de Yebreoz y ayudando a sus compañeros con conjuros que los mantuvieran en pie.
 Se dice que fue Seren quien acabó finalmente con Yebreoz, con una bola de fuego que lo agarró desprevenido justo cuando iba a lanzar un ataque contra otro de los miembros del congreso.
 
 # Después de la batalla
