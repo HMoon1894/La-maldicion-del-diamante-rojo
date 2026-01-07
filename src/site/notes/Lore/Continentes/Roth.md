@@ -31,8 +31,8 @@ La mayoría de los reinos que componen Roth mantienen relaciones comerciales y p
 > [!NOTE] Lista de sucesos históricos de Roth
 > - Guerras de Sylphon
 > - Solsticio de Onrardoth
-> - Exterminio de Vorpeluld
+> - [[Lore/Eventos Historicos/Exterminio de Vorpeluld\|Exterminio de Vorpeluld]]
 > - Batalla de Vorpeluld
 > - La vuelta de "El Congreso"
 > - Concilio de Celirras
-> - Concilio de Seren
+> - [[Lore/Eventos Historicos/Concilio de Seren\|Concilio de Seren]]
