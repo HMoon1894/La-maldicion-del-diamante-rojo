@@ -5,7 +5,7 @@
 # Provincia de Seren
 La [[Lore/Reinos/Reinos de Roth/Regiones no feudales/Provincia de Seren\|Provincia de Seren]] es una de las 2 Regiones de [[Lore/Continentes/Roth\|Roth]] que no utiliza un modelo feudal para manejarse. En su lugar, Seren es una zona semi-democrática, donde hay un líder de la región elegido por un selecto grupo de personas y otros gobernantes locales elegidos en concilios donde participan todos los habitantes de la ciudad/pueblo.
 # Origen del nombre
-La [[Lore/Reinos/Reinos de Roth/Regiones no feudales/Provincia de Seren\|Provincia de Seren]] recibe su nombre de uno de los 5 miembros de "El Congreso". El Sabio mago Seren, que luego de liberar el mundo del mal en la "Batalla de Vorpeluld" regresó al Reino de Galthonras (actual Provincia de Seren) y fue nombrado Sabio del reino, encargándose de tareas de escriba y compartiendo sus conocimientos con sus varios aprendices.
+La [[Lore/Reinos/Reinos de Roth/Regiones no feudales/Provincia de Seren\|Provincia de Seren]] recibe su nombre de uno de los 5 miembros de "[[Lore/Heroes/El Congreso\|El Congreso]]". El Sabio mago [[Lore/Heroes/Seren\|Seren]], que luego de liberar el mundo del mal en la "[[Lore/Eventos Historicos/Batalla de Vorpeluld\|Batalla de Vorpeluld]]" regresó al Reino de Galthonras (actual Provincia de Seren) y fue nombrado Sabio del reino, encargándose de tareas de escriba y compartiendo sus conocimientos con sus varios aprendices.
 
 # Demografía
 En [[Lore/Reinos/Reinos de Roth/Regiones no feudales/Provincia de Seren\|Seren]] habitan humanoides de la mayoría de las razas. Desde majestuosos Elfos hasta humildes Medianos, pasando por Enanos, Humanos, y hasta, incluso, pequeñas comunidades de Gnomos y grupos errantes de Tabaxis viajeros.
